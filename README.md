@@ -32,7 +32,7 @@ I will list all six machine learning modules from best to worst below:
 
 ![SMOTEENN](https://user-images.githubusercontent.com/92958939/163700378-a7303af1-8fe6-4228-ad4d-cc185c5ebfa9.png)
 
--	ClusterCentroids: f1 score: 0.60. Balance Accuracy Score: 0.63
+-	ClusterCentroids: Balance Accuracy Score: 0.63 / f1 score: 0.60.
 
 ![ClusterCentroids](https://user-images.githubusercontent.com/92958939/163700382-310bed0a-1bd6-494e-a520-ae028b7afe34.png)
 
