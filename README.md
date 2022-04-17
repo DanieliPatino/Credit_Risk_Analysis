@@ -8,8 +8,6 @@ The purpose of this analysis was to use different algorithms to predict credit r
 
 As shows on the images below, you will see the best results were from the EasyEnsembleClassifier algorithm with a f1 score of 0.97 and a balanced accuracy score of 0.92. The worst results were from the ClusterCentroids with a f1 score of 0.60 and a balance accuracy score of 0.63.
 
-The best results were from the EasyEnsembleClassifier due to the scores being closest to 1. Meaning that the predictions are more accurate when the precision, recall, f1, and the Balance Accuracy Score is closest to 1.
-
 I will list all six machine learning modules from best to worst below:
 
 -	EasyEnsembleClassifier: Balance Accuracy Score: 0.92 / f1 score: 0.97. 
@@ -37,6 +35,8 @@ I will list all six machine learning modules from best to worst below:
 ![ClusterCentroids](https://user-images.githubusercontent.com/92958939/163700382-310bed0a-1bd6-494e-a520-ae028b7afe34.png)
 
 ## Summary: 
+
+The best results were from the EasyEnsembleClassifier due to the scores being closest to 1. Meaning that the predictions are more accurate when the precision, recall, f1, and the Balance Accuracy Score is closest to 1.
 
 I would recommend using the EasyEnsembleClassifier module due to its higher chance of providing a more accurate prediction. 
 
