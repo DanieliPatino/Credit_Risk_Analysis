@@ -12,23 +12,23 @@ The best results were from the EasyEnsembleClassifier due to the scores being cl
 
 I will list all six machine learning modules from best to worst below:
 
--	EasyEnsembleClassifier: f1 score: 0.97. Balance Accuracy Score: 0.92
+-	EasyEnsembleClassifier: Balance Accuracy Score: 0.92 / f1 score: 0.97. 
 
 ![EasyEnsembleClassifier](https://user-images.githubusercontent.com/92958939/163700357-7302fb7e-e057-4292-be1d-3b43d140b2ec.png)
 
--	BalanceRandomForestClassifier: f1 score: 0.95. Balance Accuracy Score: 0.78
+-	BalanceRandomForestClassifier: Balance Accuracy Score: 0.78 / f1 score: 0.95. 
 
 ![BalancedRandomForestClassifier](https://user-images.githubusercontent.com/92958939/163700361-2f7d502d-7a95-4e87-ba7d-f8a1f430e5f7.png)
 
--	LogisticRegression: f1 score: 0.79. Balance Accuracy Score: 0.63
+-	LogisticRegression: Balance Accuracy Score: 0.63 / f1 score: 0.79. 
 
 ![LogisticRegression](https://user-images.githubusercontent.com/92958939/163700365-c67ba985-3fd3-4309-95a7-573d0a2199d0.png)
 
--	SMOTE: f1 score: 0.78. Balance Accuracy Score: 0.63
+-	SMOTE: Balance Accuracy Score: 0.63 / f1 score: 0.78. 
 
 ![SMOTE](https://user-images.githubusercontent.com/92958939/163700372-5221e448-dca1-41f4-bd7c-25af91b4d7a5.png)
 
--	SMOTEENN: f1 score: 0.74. Balance Accuracy Score: 0.51
+-	SMOTEENN: Balance Accuracy Score: 0.51 / f1 score: 0.74. 
 
 ![SMOTEENN](https://user-images.githubusercontent.com/92958939/163700378-a7303af1-8fe6-4228-ad4d-cc185c5ebfa9.png)
 
